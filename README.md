@@ -1,4 +1,4 @@
-# TPI-DISENIO
+# TPI-DISEÑO
 Trabajo Práctico Integrador | Diseño de Sistemas | 2020
 
 Este trabajo consiste en una página web desarrollada en Java, bajo el framework "Spring". Implementa una base de datos en MySQL.
